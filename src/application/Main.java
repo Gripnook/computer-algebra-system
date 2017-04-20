@@ -102,8 +102,8 @@ public class Main extends Application
     private Calculator CAS = new Calculator();
 
     /**
-	 * 
-	 */
+     * 
+     */
     @FXML
     private AnchorPane stdWindow, graphWindow;
 

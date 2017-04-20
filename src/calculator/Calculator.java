@@ -2007,39 +2007,4 @@ public class Calculator
         }
         return product;
     }
-
-    // //Derivative functions:
-    //
-    // string derive_sum(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of sum returned.
-    //
-    // string derive_diff(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of difference returned.
-    //
-    // string derive_prod(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of product returned.
-    //
-    // string derive_div(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of division returned.
-    //
-    // string derive_pow(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of power returned.
-    //
-    // string derive_other(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of other functions returned.
-    //
-    // string derive_simple(const string& inputstr);
-    // //Precondition: Input string to be computed has been obtained.
-    // //Postcondition: Derivative of simple function returned.
-    //
-    // string decrementbyone(const string& inputstr);
-    // //Precondition: Input string is numerical.
-    // //Postcondition: String value decremented by one.
-
 }
