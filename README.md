@@ -12,11 +12,7 @@ In standard mode, the calculator computes numeric results. In graphing mode, the
 
 The calculator also supports scientific and engineering exponential formats, with a number of significant figures from 1 to 18.
 
-<<<<<<< HEAD
 Predefined functions:
-=======
-###### Predefined functions:
->>>>>>> 75cac639fe3acd140569cdd8b2b284e93cda1a69
 
 ```
 +, -, *, /, %, ^ : Arithmetic operators.
@@ -52,11 +48,7 @@ product(f(x), a, b) : Product of f(x) from x = a to x = b.
 rand(n) : Random number in the range [0, n), where n is an integer.
 ```
 
-<<<<<<< HEAD
 Special characters:
-=======
-###### Special characters:
->>>>>>> 75cac639fe3acd140569cdd8b2b284e93cda1a69
 
 ```
 e     : 2.71828
